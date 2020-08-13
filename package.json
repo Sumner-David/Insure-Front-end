@@ -1,0 +1,24 @@
+{
+  "name": "insurance-page-front-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Gulpfile.js",
+  "scripts": {
+    "tailwind": "tailwindcss build ./src/scss/tailwind-core.css -o ./src/tailwind.css" 
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-sass": "^4.1.0",
+    "sass": "^1.26.10",
+    "tailwindcss": "^1.6.2"
+  },
+  "devDependencies": {
+    "gulp-clean-css": "^4.3.0",
+    "postcss": "^7.0.32"
+  }
+}
