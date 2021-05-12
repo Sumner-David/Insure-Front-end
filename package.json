@@ -19,6 +19,6 @@
   },
   "devDependencies": {
     "gulp-clean-css": "^4.3.0",
-    "postcss": "^7.0.32"
+    "postcss": "^8.2.10"
   }
 }
